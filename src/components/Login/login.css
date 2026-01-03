@@ -1,0 +1,14 @@
+.logintitle{
+    font-size:0;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.logindont{
+    font-size: 30px !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.loginTrack{
+    font-size: 45px;
+    font-family:'Courier New', Courier, monospace;
+}
